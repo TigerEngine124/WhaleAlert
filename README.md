@@ -25,8 +25,8 @@ Before running the bot, make sure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamnas/SolanaWhaleAlert.git
-   cd SolanaWhaleAlert
+   git clone https://github.com/TigerEngine124/WhaleAlert.git
+   cd WhaleAlert
    ```
 
 2. Install the dependencies:
